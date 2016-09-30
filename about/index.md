@@ -2,8 +2,9 @@
 layout: default
 title: About Didi Mudigdo
 ---
-#About Me
 
-##The Short Version
+# About Me
 
-##The Long Version
+## The Short Version
+
+## The Long Version
