@@ -3,6 +3,8 @@ layout: default
 title: Courses
 ---
 
-#Lessons
+# Lessons
 
-Yes you can have lessons for $500/minute. Just contact me.
+Yes you can have lessons for $500/minute.
+
+Just contact me.
