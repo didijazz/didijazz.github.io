@@ -11,6 +11,8 @@ Hi there, I am a bass guitarist based in Perth Australia with over 25 years of p
 
 My bass influences include Ray Brown, Jaco Pastorius, Louis Johnson, Sting, Pino Palladino, Rocco Prestia (Tower of Power), Deon Estus (Wham!), John Taylor (Duran Duran) and Mikey Craig (Culture Club).
 
+<img class=img-responsive src="/img/bass800px.jpg" alt="">
+
 ## The Long Version
 
 ### Early Years
