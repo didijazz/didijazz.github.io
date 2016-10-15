@@ -9,7 +9,7 @@ title: About
 
 Hi there, I am a bass guitarist based in Perth Australia with over 25 years of performance experience.
 
-My bass influences include Ray Brown, Jaco Pastorius, Louis Johnson, Sting, Pino Palladino, Rocco Prestia (Tower of Power), Deon Estus (Wham!), John Taylor (Duran Duran) and Mikey Craig (Culture Club).
+My bass influences include Ray Brown, Jaco Pastorius, Louis Johnson, Mark King, Sting, Pino Palladino, Rocco Prestia (Tower of Power), Deon Estus (Wham!), John Taylor (Duran Duran) and Mikey Craig (Culture Club).
 
 ## The Long Version
 
@@ -25,7 +25,7 @@ The bass highlights of my 17 years in Sydney were playing in [TJ Eckleberg](http
 
 ### Adventures in Asia on Piano
 
-In 2005, I left Sydney for Shanghai as part of [Nikki Doll and The Voodoo Blue](http://www.nikkidoll.com/) for a 6-month engagement in Shanghai and Beijing, playing piano/keyboards. My basses were sadly left behind in Sydney, and for 4 years abroad in China, Japan and Southeast Asia, I played piano exclusively.
+In 2005, I left Sydney for Shanghai as part of [Nikki Doll and The Voodoo Blue](http://www.nikkidoll.com/) for a 6-month engagement in Shanghai and Beijing, playing piano/keyboards with [Rowan Lane](http://www.markbass.it/artist_detail.php?id=1141) on bass. My own basses were sadly left behind in Sydney, while I continued to play piano exclusively for another 4 years abroad in China, Japan and Southeast Asia.
 
 ### Back on the Bass: Perth via Sydney and Asia
 
