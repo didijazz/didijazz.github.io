@@ -300,3 +300,6 @@ img.resp-tab {
   transition: transform .2s ease-in-out;
 }
 
+div.resp-tab {
+  font-size: 0;
+}
