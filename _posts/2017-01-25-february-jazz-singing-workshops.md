@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Jazz Singing Workshops February 2017"
+date: 2017-01-25
+---
+
+A big thank you to all who attended January's inaugural Jazz Singing Workshop! After considering the feedback, this February, I will be holding two jazz singing workshops at the [Victoria Park Centre for the Arts](http://vicparkarts.org.au), 12 Kent St, East Victoria Park WA 6101:
+
+**Jazz Vocal Ensemble ($15)
+6:30 pm 7th February**
+In the *Jazz Vocal Ensemble* workshop, we will partake in jazz group singing improvisation activities to aquaint ourselves with the unique sound and feel of jazz music. We will then use these skills to sing a repertoire of a capella blues, jazz and gospel numbers.
+
+**8th Feb 2017 - Solo Jazz Singing ($15)
+6:30 pm 8th February**
+In the *Solo Jazz Singing* workshop, we will unleash your inner Frank Sinatra or Ella Fitzgerald. We will cover performance aspects which are essential to a solo jazz singer, from advanced vocal technique to how to work with a jazz band (please prepare 1-2 jazz standards to perform in class, preferably from [this list](https://didijazz.github.io/blog/2016/11/15/jazz-singer-standards)
+
+Hope to see you there!
