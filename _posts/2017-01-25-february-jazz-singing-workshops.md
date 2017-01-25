@@ -4,7 +4,7 @@ title: "Jazz Singing Workshops February 2017"
 date: 2017-01-25
 ---
 
-A big thank you to all who attended last month's inaugural Jazz Singing Workshop! After considering the post-workshop feedback, this February I will be holding two jazz singing workshops at the [Victoria Park Centre for the Arts](http://vicparkarts.org.au) (12 Kent St, East Victoria Park WA 6101) for group singers and solo singers:
+A big thank you to all who attended this month's inaugural Jazz Singing Workshop! After considering the post-workshop feedback, this February I will be holding two jazz singing workshops at the [Victoria Park Centre for the Arts](http://vicparkarts.org.au) (12 Kent St, East Victoria Park WA 6101) for group singers and solo singers:
 
 **Jazz Vocal Ensemble ($15)  
 6:30 pm 7th February**  
