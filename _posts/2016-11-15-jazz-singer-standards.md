@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Jazz Standards Shortlist for Jazz Singers"
+title: "250 Jazz Standards for Jazz Singers"
 date: 2016-11-15
 ---
 
 There are many lists of jazz standards floating around the internet, all of them are a good guide on what jazz standards one needs to know as a jazz musician. One of my favourite lists is the one at [jazzstandards.com](http://www.jazzstandards.com/compositions/) because:
 
-* It is quite extensive, 1000 jazz standards!
+* It is quite extensive, 1,000 jazz standards!
 * They are ranked according to a [particular methodology](http://www.jazzstandards.com/overview.ranking.htm), so you get an idea of which are the most popular jazz standards recorded (and thus to learn)
 * The top 300 jazz standards each have a page of their own, with information on composers, published key, popular jazz recorded versions etc. Quite a useful resource for anyone studying the jazz standards.
 
