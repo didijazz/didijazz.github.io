@@ -24,4 +24,8 @@ N.B.: You are most welcome to attend both classes if you wish, but please note t
 
 ![Victoria Park Centre for the Arts Logo](/img/vpa-logo-rgb.jpg)
 
+{::nomarkdown}
+
 <p><img class=img-responsive src="/img/vpa-logo-rgb.jpg" alt="Victoria Park Centre for the Arts Logo"></p>
+
+{:/}
