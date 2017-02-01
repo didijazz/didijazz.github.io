@@ -22,8 +22,6 @@ Hope to see you there!
 
 N.B.: You are most welcome to attend both classes if you wish, but please note that the Solo Jazz Singing workshop requires [registration](https://docs.google.com/forms/d/e/1FAIpQLScFM7_xE4w-VRSI2rTcH1RMYAEPJjbe2G82E3ffazigkGAo4w/viewform).
 
-![Victoria Park Centre for the Arts Logo](/img/vpa-logo-rgb.jpg)
-
 {::nomarkdown}
 
 <p><img class=img-responsive src="/img/vpa-logo-rgb.jpg" alt="Victoria Park Centre for the Arts Logo"></p>
