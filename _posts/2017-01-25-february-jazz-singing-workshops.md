@@ -8,7 +8,7 @@ A big thank you to all who attended January's inaugural 2017 Jazz Singing Worksh
 
 **Jazz Vocal Ensemble ($15)  
 6:30 pm - 8:30 pm, 7th February**  
-In the *Jazz Vocal Ensemble* workshop, we will partake in jazz group singing improvisation activities to acquaint ourselves with the unique sound and feel of jazz music. We will then use these skills to sing a repertoire of a capella blues, jazz and gospel numbers.  
+In the *Jazz Vocal Ensemble* workshop, we will partake in jazz group singing improvisation activities to acquaint ourselves with the unique sound and feel of jazz music. We will then use these skills to sing together a repertoire of a capella blues, jazz and gospel numbers.  
 *Drop in class, registration not required*
 
 **Solo Jazz Singing ($15)  
