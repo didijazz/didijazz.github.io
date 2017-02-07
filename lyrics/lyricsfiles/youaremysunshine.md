@@ -4,7 +4,7 @@ title: Lyrics - You Are My Sunshine
 description: Lyrics used in workshops - You Are My Sunshine
 ---
 
-##You Are My Sunshine
+# You Are My Sunshine
 You are my sunshine, my only sunshine  
 You make me happy when skies are gray  
 You'll never know dear, how much I love you  
