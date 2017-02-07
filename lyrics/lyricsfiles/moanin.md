@@ -4,6 +4,8 @@ title: Lyrics - Moanin
 description: Lyrics used in workshops - Moanin
 ---
 
+[*back to lyrics list*](/lyrics)
+
 # Moanin
 Every Mornin' finds me moanin'  
 I'm alone and crying the blues  

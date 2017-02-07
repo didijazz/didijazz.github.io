@@ -4,6 +4,8 @@ title: Lyrics - The Glory of Love
 description: Lyrics used in workshops - The Glory of Love
 ---
 
+[*back to lyrics list*](/lyrics)
+
 # The Glory of Love
 You've got to give a little,  
 Take a little,  

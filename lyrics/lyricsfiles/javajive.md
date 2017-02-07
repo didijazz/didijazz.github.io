@@ -4,6 +4,8 @@ title: Lyrics - Java Jive
 description: Lyrics used in workshops - Java Jive
 ---
 
+[*back to lyrics list*](/lyrics)
+
 # Java Jive
 I love coffee, I love tea  
 I love the java jive and it loves me  

@@ -4,7 +4,9 @@ title: Lyrics - Glow Worm
 description: Lyrics used in workshops - Glow Worm
 ---
 
-## Glow Worm
+[*back to lyrics list*](/lyrics)
+
+# Glow Worm
 Shine little glow-worm, glimmer, glimmer  
 Shine little glow-worm, glimmer, glimmer  
 Lead us lest too far we wander  

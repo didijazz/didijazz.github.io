@@ -4,6 +4,8 @@ title: Lyrics - Down St Thomas Way
 description: Lyrics used in workshops - Down St Thomas Way
 ---
 
+[*back to lyrics list*](/lyrics)
+
 # Down St Thomas Way
 One cold winter morning it was 7 below  
 I made up my mind "my friend this snow's got to go"  
