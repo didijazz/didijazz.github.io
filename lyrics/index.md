@@ -9,6 +9,7 @@ description: Lyrics used in workshops
 * [Glow Worm](/lyrics/lyricsfiles/glowworm.html)
 * [Java Jive](/lyrics/lyricsfiles/javajive.html)
 * [Moanin](/lyrics/lyricsfiles/moanin.html)
+* [Rainy Night in Georgia](/lyrics/lyricsfiles/rainynightingeorgia.html)
 * [The Glory of Love](/lyrics/lyricsfiles/thegloryoflove.html)
 * [You Are My Sunshine](/lyrics/lyricsfiles/youaremysunshine.html)
 
