@@ -7,7 +7,7 @@ title: Didi Mudigdo Resume
 
 didi@didi.com.au - (08) 6102 0525 - Victoria Park WA 6100
 
-## Part Time Admin Assistant
+## Part-Time Admin Assistant
 
 Sydney music events small business owner of 15+ years with all-rounder marketing, IT and bookkeeping skills transitioning into a part-time office admin support role in Perth.
 
@@ -30,7 +30,7 @@ Key qualifiers include:
 **IT**  
 * Analyzed data and presented data visualizations from major corporations such as BHP, Australia Post and Berri.
 * Wrote technical manuals for custom-made Enterprise Resource Planning (ERP) packages in Microsoft .hlp and Word formats, while researching single-source multi-format XML solutions.
-* Designed and maintained the company website using raw HTML.
+* Designed and maintained the company website.
 * Extracted, calculated and presented custom metrics from Microsoft Project using Microsoft Access via ODBC protocols.
 
 ### CinCin Entertainment 1999 - 2006
@@ -45,7 +45,7 @@ Key qualifiers include:
 
 **IT**  
 * Developed a custom mini-ERP system built on FileMaker that tracked client communications, event booking details, invoicing and contractor assignment.
-* Designed and maintained the company website using raw HTML, featuring online audio.
+* Designed and maintained the company website featuring online audio.
 * Administered the company domain hosting using cPanel.
 
 ### DM Productions 2006 - 2011
@@ -108,8 +108,8 @@ Bachelor of Science (Mathematics) 1992
 **Telephone Techniques** *Workers' Educational Association*  
 **Graphic Design** *Eastern Suburbs Evening College*  
 **Principles and Practice of Teaching** *University of NSW Professional Development Centre*  
-**Java Programming and Software Engineering Fundamentals** *Coursera/Duke University*  
 **Python for Everybody** *Coursera/University of Michigan*  
+**Java Programming and Software Engineering Fundamentals** *Coursera/Duke University*  
 
 ## University Extracurricular Activities
 
