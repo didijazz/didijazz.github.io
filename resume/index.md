@@ -57,9 +57,9 @@ Key qualifiers include:
 * Liaised with the Australian Trade Commission to acquire corporate sponsorship for performances in Japan.
 * Composed press releases which resulting in press coverage in Sydney, Osaka, Guangzhou and Jakarta.
 * Promoted music events to an EDM list of 800+ people in Sydney, Shanghai, Beijing, Guangzhou, Tokyo and Osaka.
-* Produced and deployed regular YouTube video content with up to 35,000+ views per video
+* Produced and deployed regular YouTube video content with up to 35,000+ views per video.
 * Applied video SEO, achieving first-page YouTube search results for 'jazz vocals'.
-* Created and administered Facebook Groups and Business Pages for Didi Mudigdo, Jazz in Guangzhou and Sydney Jazz Open Mic
+* Created and administered Facebook Groups and Business Pages for Didi Mudigdo, Jazz in Guangzhou and Sydney Jazz Open Mic.
 
 **IT**  
 * Designed and maintained the company website and blog using WordPress embedded into RapidWeaver using custom PHP code.
@@ -75,13 +75,14 @@ Key qualifiers include:
 * Designed and maintained a WordPress blog of curated images, audio and video from event performances.
 * Applied SEO, achieving top Google search results for 'Perth roving duo'. 
 * Transitioned from manual EDM events promotion to using MailChimp.
-* Ran Pay-Per-Click (PPC) campaigns on Facebook and Google AdWords
+* Ran Pay-Per-Click (PPC) campaigns on Facebook and Google AdWords.
 * Promoted community arts music workshops using classifieds, community noticeboards and leaflets.
 
 **IT**  
-* Designed and maintained a music teaching website built on Jekyll/GitHub
-* Maintained a Google Apps account installed on the peachysounds.com domain
-* Maintained a Microsoft Office 365 account installed on the polkadotandmoonbeam.com.au domain
+* Designed and maintained a music teaching website built on Jekyll/GitHub.
+* Maintained a Google Apps account installed on the peachysounds.com domain.
+* Maintained a Microsoft Office 365 account installed on the polkadotandmoonbeam.com.au domain.
+* Wrote a Python script to convert Microsoft Excel (.xls) bank transactions into Quicken Interchange Format (.qif).
 
 **BOOKKEEPING**  
 * Maintained company accounts on the cloud using Wave Accounting.
@@ -116,5 +117,5 @@ Bachelor of Science (Mathematics) 1992
 Secretary/Treasurer, University of NSW Music Society  
 Music Director, NSW University Theatre Society  
 Baritone, University of NSW Collegium Musicum Choir  
-Pianist, Univesity of NSW Jazz Big Band  
+Pianist, University of NSW Jazz Big Band  
 Bassist, University of NSW Law/Medicine Faculty Revues  
