@@ -9,7 +9,7 @@ didi@didi.com.au - (08) 6102 0525 - Victoria Park WA 6100
 
 ## Part-Time Admin Assistant
 
-Sydney music events small business owner of 15+ years with all-rounder marketing, IT and bookkeeping skills transitioning into a part-time office admin support role in Perth.
+Sydney small business owner with 15+ years of all-rounder marketing, IT and bookkeeping experience transitioning into a part-time office admin support role in Perth.
 
 Key qualifiers include:
 
@@ -29,7 +29,7 @@ Key qualifiers include:
 
 **IT**  
 * Analyzed data and presented data visualizations from major corporations such as BHP, Australia Post and Berri.
-* Wrote technical manuals for custom-made Enterprise Resource Planning (ERP) packages in Microsoft .hlp and Word formats, while researching single-source multi-format XML solutions.
+* Wrote technical manuals for custom Enterprise Resource Planning (ERP) packages in Microsoft .hlp and Word formats, while researching single-source multi-format XML solutions.
 * Designed and maintained the company website.
 * Extracted, calculated and presented custom metrics from Microsoft Project using Microsoft Access via ODBC protocols.
 
@@ -37,11 +37,11 @@ Key qualifiers include:
 *Business Owner and Operator* (Partnership)
 
 **MARKETING**  
-* Performed for private and corporate clients including AMP, Westpac, Australian Graduate School of Management (University of NSW), Mercer and Bain & Company.
+* Secured event performances for private and corporate clients including AMP, Westpac, Australian Graduate School of Management (University of NSW), Mercer and Bain & Company.
 * Achieved No 1 jazz vocals chart ranking on mp3.com.au.
 * Promoted music events to an EDM list of 300+ people in Sydney.
 * Planned, designed and coordinated print and online advertising campaigns.
-* Communicated event logistics with clients via phone or personal home visits when required.
+* Communicated event logistics with clients via phone, email or personal home visits when required.
 
 **IT**  
 * Developed a custom mini-ERP system built on FileMaker that tracked client communications, event booking details, invoicing and contractor assignment.
@@ -52,10 +52,10 @@ Key qualifiers include:
 *Business Owner and Operator (Sole Trader)*
 
 **MARKETING**  
-* Provided solo piano/vocal live music for the exclusive hotel brands Ritz-Carlton, Westin, Intercontinental and Sheraton in Japan, China and Southeast Asia.
+* Secured 3-6 month performance contracts with the exclusive hotel brands Ritz-Carlton, Westin, Intercontinental and Sheraton in Japan, China and Southeast Asia.
 * Organized and promoted a CD album launch tour schedule in Japan, China, Singapore and Indonesia.
 * Liaised with the Australian Trade Commission to acquire corporate sponsorship for performances in Japan.
-* Composed press releases which resulting in press coverage in Sydney, Osaka, Guangzhou and Jakarta.
+* Composed press releases which lead to press coverage in Sydney, Osaka, Guangzhou and Jakarta.
 * Promoted music events to an EDM list of 800+ people in Sydney, Shanghai, Beijing, Guangzhou, Tokyo and Osaka.
 * Produced and deployed regular YouTube video content with up to 35,000+ views per video.
 * Applied video SEO, achieving first-page YouTube search results for 'jazz vocals'.
@@ -76,7 +76,7 @@ Key qualifiers include:
 * Applied SEO, achieving top Google search results for 'Perth roving duo'. 
 * Transitioned from manual EDM events promotion to using MailChimp.
 * Ran Pay-Per-Click (PPC) campaigns on Facebook and Google AdWords.
-* Promoted community arts music workshops using classifieds, community noticeboards and leaflets.
+* Promoted community arts music workshops using traditional media: classifieds, community noticeboards and leaflets.
 
 **IT**  
 * Designed and maintained a music teaching website built on Jekyll/GitHub.
@@ -108,7 +108,6 @@ Bachelor of Science (Mathematics) 1992
 **Simply Selling** *Workers' Educational Association*  
 **Telephone Techniques** *Workers' Educational Association*  
 **Graphic Design** *Eastern Suburbs Evening College*  
-**Principles and Practice of Teaching** *University of NSW Professional Development Centre*  
 **Python for Everybody** *Coursera/University of Michigan*  
 **Java Programming and Software Engineering Fundamentals** *Coursera/Duke University*  
 
