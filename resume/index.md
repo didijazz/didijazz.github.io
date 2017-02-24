@@ -102,11 +102,11 @@ Bachelor of Science (Mathematics) 1992
 
 ## Short Courses
 
-**Bookkeeping 1 Certificate** *London Chamber of Commerce and Industry*  
-**Accounting for Non-Accountants** *Workers' Educational Association*  
 **Introduction to Marketing** *Coursera/University of Pennsylvania*  
 **Simply Selling** *Workers' Educational Association*  
 **Telephone Techniques** *Workers' Educational Association*  
+**Bookkeeping 1 Certificate** *London Chamber of Commerce and Industry*  
+**Accounting for Non-Accountants** *Workers' Educational Association*  
 **Graphic Design** *Eastern Suburbs Evening College*  
 **Python for Everybody** *Coursera/University of Michigan*  
 **Java Programming and Software Engineering Fundamentals** *Coursera/Duke University*  
