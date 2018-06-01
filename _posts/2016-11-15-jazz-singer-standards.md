@@ -2,6 +2,7 @@
 layout: post
 title: "250 Jazz Standards for Jazz Singers"
 date: 2016-11-15
+comments: true
 ---
 
 There are many lists of jazz standards floating around the internet, all of them are a good guide on what jazz standards one needs to know as a jazz musician. One of my favourite lists is the one at [jazzstandards.com](http://www.jazzstandards.com/compositions/) because:
