@@ -2,6 +2,7 @@
 layout: post
 title: "Jazz Singing Workshops Feb/Mar 2017"
 date: 2017-01-25
+comments: true
 ---
 
 ***UPDATE**: Sincere apologies, but the Jazz Singing Workshops on 7th and 8th March have been cancelled.*
