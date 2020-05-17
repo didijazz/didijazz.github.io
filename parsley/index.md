@@ -39,3 +39,6 @@ They were starting to die, the plants matured, and summer's coming.
 
 ### May 2020
 The next generation of corieander didn't grow so high, I'm guessing because I didn't bother thinning it, just let the seeds grow where they fell (which was everywhere). Whereas the original seeds were carefully spaced out. Recently I transplanted some of these to the backyard with proper spacing near the parsley. Hopefully in time they'll grow as tall as their parents.
+
+<img src="/img/herbpics/C-May2020.jpg" class="img-responsive">
+<img src="/img/herbpics/CP-May2020.jpg" class="img-responsive">
