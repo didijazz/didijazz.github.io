@@ -10,5 +10,5 @@ Here's a tune I wrote while waiting for Woolies to open on a public holiday. I u
 
 <p><img class=img-responsive src="/img/Woolwaiting.jpg" alt="Outside Woolies"></p>
 
-![Outside Woolies](/img/Woolwaiting.jpg)
+![Outside Woolies](/img/Woolwaiting.jpg){:.img-responsive}
 
