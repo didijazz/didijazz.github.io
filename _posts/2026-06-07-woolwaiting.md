@@ -8,7 +8,5 @@ Here's a tune I wrote while waiting for Woolies to open on a public holiday. I u
 
 <p><audio src="/media/Woolwaiting.m4a" type="audio/mp4" preload="none" controls> </audio></p>
 
-<p><img class=img-responsive src="/img/Woolwaiting.jpg" alt="Outside Woolies"></p>
-
 ![Outside Woolies](/img/Woolwaiting.jpg){:.img-responsive}
 
